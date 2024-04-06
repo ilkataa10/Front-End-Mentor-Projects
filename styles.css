@@ -83,7 +83,7 @@ h1 {
 }
 
 .price-box.price-box-premium > * {
-	
+	/* Number provided by Theo 🎉 */
 	transform: scale(0.869);
 }
 
